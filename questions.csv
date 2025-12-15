@@ -1,0 +1,16 @@
+id,text,optA,optB,optC,optD,answer,marks
+Q1,Who is the father of computers?,Charles Babbage,Alan Turing,Thomas Edison,James Watt,A,1
+Q2,What is the capital of India?,Hyderabad,Delhi,Mumbai,Chennai,B,1
+Q3,2 + 2 = ?,3,4,5,6,B,1
+Q4,Which is a programming language?,HTML,Java,CSS,HTTP,B,2
+Q5,What is H2O?,Water,Oxygen,Hydrogen,Acid,A,1
+Q6,Which keyword is used to prevent inheritance in Java?,static,final,private,protected,B,1
+Q7,Which exception is thrown when dividing by zero?,IOException,NullPointerException,ArithmeticException,ArrayIndexOutOfBoundsException,C,1
+Q8,Which collection does NOT allow duplicate elements?,List,ArrayList,Set,Map,C,1
+Q9,Which keyword is used to call a parent class constructor?,this,super,parent,extends,B,1
+Q10,Which of these is a checked exception?,NullPointerException,ArithmeticException,IOException,ArrayIndexOutOfBoundsException,C,2
+Q11,Which Java feature allows method names to be same with different parameters?,Inheritance,Encapsulation,Polymorphism,Abstraction,C,2
+Q12,Which interface is implemented by ArrayList?,List,Set,Queue,Map,A,1
+Q13,Which method is used to compare String values?,==,compare(),equals(),match(),C,1
+Q14,Which keyword is used to handle exceptions?,try,catch,throw,All of the above,D,1
+Q15,Which collection maintains insertion order?,HashSet,TreeSet,LinkedHashMap,HashMap,C,2
