@@ -1,12 +1,8 @@
 package com.klu.qea.evaluator;
-
 import com.klu.qea.exception.IncompleteQuizException;
 import com.klu.qea.io.*;
 import com.klu.qea.model.Question;
-//import com.klu.qea.util.AnalyticsUtil;
-
 import java.util.*;
-
 public class QuizEvaluator implements Evaluator{
 
     private final String questionsPath;
